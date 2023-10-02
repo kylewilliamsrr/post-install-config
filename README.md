@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-From the Admin Panel of osTicket, we can add departments, designate separate roles within these departments, create new agent profiles of the individuals that hold these roles, and include specific teams to help assign work. We can also create certain permissions to be given to specific roles within the department such as assigning tickets or releasing the ticket assignment.  
+From the Admin Panel of osTicket, an administrator can add departments, designate separate roles within these departments, create new agent profiles of the individuals that hold these roles, and include specific teams to help assign work. We can also create certain permissions to be given to specific roles within the department such as assigning tickets or releasing the ticket assignment.  
 </p>
 <br />
 
@@ -51,7 +51,7 @@ From the Admin Panel of osTicket, we can add departments, designate separate rol
 
 </p>
 <p>
-In the Admin Panel, we can also create new Help Topics for tickets that can help users connect issues with the proper department. Service Level Agreements can also be added based on policy so that tickets are resolved in the appropriate manner.  
+In the Admin Panel, an administrator can also create new Help Topics for tickets that can help users connect issues with the proper department. Service Level Agreements can also be added based on policy so that tickets are resolved in the appropriate manner.  
 </p>
 <br />
 
