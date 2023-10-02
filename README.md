@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,34 +19,48 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configuring Departments
+- Configuring Roles
+- Configuring Teams
+- Configuring Agents
+- Configuring Service Level Agreements
+- Configure Help Topics
+- Configure Users
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![osTicket 1](https://github.com/kylewilliamsrr/post-install-config/assets/144828759/38428337-3575-4770-ba0c-aa140a4bf99d)
+
+  ![osTicket 2](https://github.com/kylewilliamsrr/post-install-config/assets/144828759/64d3fe7e-6829-4378-b1dd-334ab2221caf)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Admin Panel of osTicket, we can add departments, designate separate roles within these departments, create new agent profiles of the individuals that hold these roles, and include specific teams to help assign work. We can also create certain permissions to be given to specific roles within the department such as assigning tickets or releasing the ticket assignment.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![osTicket 3](https://github.com/kylewilliamsrr/post-install-config/assets/144828759/a127a56c-cf8d-45ab-8278-155370ea356a)
+
+  ![osTicket 4](https://github.com/kylewilliamsrr/post-install-config/assets/144828759/600fd002-5a1f-4a35-85ec-f864c019f5af)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, we can also create new Help Topics for tickets that can help users connect issues with the proper department. Service Level Agreements can also be added based on policy so that tickets are resolved in the appropriate manner.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![osTicket 5](https://github.com/kylewilliamsrr/post-install-config/assets/144828759/82056d41-ed41-4192-a4a5-b329cf4ead50)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Agent Panel, administrators can add new users to the directory and provide them with necessary access.  
 </p>
 <br />
